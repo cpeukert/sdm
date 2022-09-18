@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Moodle page",
+    "description": "Access additional course material.",
+    "link": "https://moodle.unil.ch/course/view.php?id=25371"
+  },
+  {
+    "title": "Course Videos",
+    "description": "Explore the videos for the course.",
+    "link": "/blog/"
+  },
+  {
+    "title": "Speakers",
+    "description": "Find all about our speakers.",
+    "link": "/products/2022/"
+  }
+]

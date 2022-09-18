@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SDM</title>
+    <link>https://example.com/</link>
+    <description>Recent content on SDM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autumn Semester 2021</title>
+      <link>https://example.com/products/2021/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://example.com/products/2021/</guid>
+      <description>Week 5 (Oct 22, 2021) Dr. Erdem Dogukan Yilmaz Dr. Yilmaz&amp;rsquo;s research is in the nexus of strategic management and information systems, with an emphasis on artificial intelligence/robotics, digitization, and open innovation.
+Week 6 (Oct 29, 2021) Dr. Reinhold Kesler Reinhold Kesler studied economics at the University of Mannheim, focusing on applied microeconometrics and empirical industrial organisation. In 2019, he graduated summa cum laude with a dissertation on “Competition Policy in the Digital Era” at the University of Zurich.</description>
+    </item>
+    
+    <item>
+      <title>Autumn Semester 2022</title>
+      <link>https://example.com/products/2022/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://example.com/products/2022/</guid>
+      <description>Week 3 (Oct 4, 2022) Prof. Ben Shiller (Brandeis University) Relatively new phenomenon like internet commerce and massive data collection on consumer behavior (Big Data) may induce fundamental changes to the economy. Prof. Ben Shiller&amp;rsquo;s research goal is to study these changes. Examples of his research include studying whether ad blocking reduces websites investments in content, whether proprietary data collection allows prolonged profitability even in the face of competition, and the impact of personalized pricing, i.</description>
+    </item>
+    
+    <item>
+      <title>Strategy in Digital Markets - Course Overview</title>
+      <link>https://example.com/blog/1.course_overview/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/1.course_overview/</guid>
+      <description>&lt;p&gt;Short overview of the course &amp;ldquo;Strategy in Digital Markets&amp;rdquo; that I teach in the Master of Management program at HEC Lausanne.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Econometrics refresher series</title>
+      <link>https://example.com/blog/econ_reg_model/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/econ_reg_model/</guid>
+      <description>&lt;p&gt;In this series of videos, we will refresh our knowledge on some basic econometric principles.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Technology strategy - How innovation evolves over time</title>
+      <link>https://example.com/blog/2.dynamics_in_innovation/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/2.dynamics_in_innovation/</guid>
+      <description>&lt;p&gt;We talk about dynamics in innovation. More specifically we will talk about the evolution of technology over time and with effort. Also, I will walk you through the model of the technology cycle.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>What are network effects? Lessons from competition in software markets</title>
+      <link>https://example.com/blog/3.network_effects/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/3.network_effects/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s talk about network effects. We will first cover theoretical concepts such as &amp;ldquo;economies of scales&amp;rdquo;, and what economists mean by the term &amp;ldquo;externality&amp;rdquo;. We will then think about how to compete in markets with network effects. Finally, we will look at a case study of Lotus 1-2-3, a spreadsheet software package from the 1980s. Many things to learn from history!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pricing strategies in digital markets</title>
+      <link>https://example.com/blog/4.pricing_str/</link>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/4.pricing_str/</guid>
+      <description>&lt;p&gt;Hello everyone, in today’s video we are going to talk about pricing! More specifically we will talk about the three types of price discrimination and about pricing with network effects.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Firm organization - tradeoffs in make vs. buy</title>
+      <link>https://example.com/blog/5.firm_org/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/5.firm_org/</guid>
+      <description>&lt;p&gt;In this video, we will talk about firm organization. Specifically we will think about make or buy. We will shed light on the pains and gains of collaboration in traditional industries and will be thinking about various trade-offs in finding the optimal organizational form.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Firm organization - Collaboration and digital technologies</title>
+      <link>https://example.com/blog/6.collaborations/</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/6.collaborations/</guid>
+      <description>&lt;p&gt;In this video, we will shed light on the pains and gains of collaboration in dynamic digital environments. Also, we will be thinking about various trade-offs in finding the optimal organizational form.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Platform economics - An introduction</title>
+      <link>https://example.com/blog/7.platform_economics/</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/7.platform_economics/</guid>
+      <description>&lt;p&gt;Hello and welcome! In today&amp;rsquo;s video, we will talk about platforms. I will explain what platforms are, the role of network effects in platform markets, and how platforms often challenge existing gatekeepers.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Strategies to launch a platform</title>
+      <link>https://example.com/blog/8.strategies_platforms/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/8.strategies_platforms/</guid>
+      <description>&lt;p&gt;Today we&amp;rsquo;re talking about launching a platform and strategies that help us solve the chicken-and-egg problem. How do we attract users to a platform when there aren&amp;rsquo;t enough users on the other side yet? We&amp;rsquo;ll see that launching a platform has a lot to do with marketing and learn a few strategies to try to manage the process of adding users to a new platform.&lt;/p&gt;
+&lt;p&gt;This video is quite close to chapter 5 of the book “Platform Revolution” by Parker and others. If you want to get into more details, I highly recommend that you get that book and read along.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Platform competition - strategies to manage network effects</title>
+      <link>https://example.com/blog/9.competition_platforms/</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/9.competition_platforms/</guid>
+      <description>&lt;p&gt;Today’s topic is platform competition. Since we’re dealing with complex issues, we will break it down into several elements. This will be useful to think about strategies for how platforms can govern and regulate the markets that they create. As always we’ll discuss a few examples along the way.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Platform design - governance and openness</title>
+      <link>https://example.com/blog/10.platform_design/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/10.platform_design/</guid>
+      <description>&lt;p&gt;Hello everyone!&lt;/p&gt;
+&lt;p&gt;In today&amp;rsquo;s video we will talk about platform design. Specifically, we will get to know two distinct types of platforms. We will then talk about platform governance, the trade-off between exclusivity and openness and discuss models for managing and sponsoring platforms.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence Strategy - The Machine Learning Value Chain</title>
+      <link>https://example.com/blog/11.ai_design/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/11.ai_design/</guid>
+      <description>&lt;p&gt;Hello everyone! Today, our focus is on Artificial Intelligence. Well, actually Machine Learning - a certain type of AI.&lt;/p&gt;
+&lt;p&gt;I will introduce the concept of the machine learning value chain, wich will help us to think about machine learning as a product. We can also use this framework to get an idea of the value of data.&lt;/p&gt;
+&lt;p&gt;A key question we will ask is: Can more data help to make better decisions? Related to that, we will think about whether data and algorithms are complements or substitutes. We will see that the answer matters quite a bit for using AI in a business context.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Using data strategically</title>
+      <link>https://example.com/blog/12.using_data/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/12.using_data/</guid>
+      <description>&lt;p&gt;Hi everyone! In today’s video we will explore how we can design strategies to make data valuable and create a competitive advantage.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Organization of AI - Specialization and Make-or-Buy</title>
+      <link>https://example.com/blog/13.org_ai/</link>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/13.org_ai/</guid>
+      <description>&lt;p&gt;What do you want to be? A creator of AI, or a user of AI? That’s the key question we want to talk about in this video. We want to think about firm boundaries and make-or-buy decisions and
+strategic positing when it comes to AI technologies.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Regulation in digital markets</title>
+      <link>https://example.com/blog/14.regulations/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/14.regulations/</guid>
+      <description>&lt;p&gt;Regulation in digital markets has many examples: telecommunication markets, platforms,
+competition policy, and regulation about privacy and data protection.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Course Syllabus</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>We live in an increasingly digital economy. Information technology (IT) has transformed a large number of markets and advances in Artificial Intelligence will likely further lead to important changes throughout the value chain of individual firms and across a variety of sectors.
+The course Strategy in Digital Markets introduces students to some of the fundamental concepts, and strategic challenges and opportunities of digitization. We will explore how digital technologies shape markets and corporate strategy.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description>Reach out if you have any questions.</description>
+    </item>
+    
+  </channel>
+</rss>

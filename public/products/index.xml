@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speakers on SDM</title>
+    <link>https://example.com/products/</link>
+    <description>Recent content in Speakers on SDM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate><atom:link href="https://example.com/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autumn Semester 2021</title>
+      <link>https://example.com/products/2021/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://example.com/products/2021/</guid>
+      <description>Week 5 (Oct 22, 2021) Dr. Erdem Dogukan Yilmaz Dr. Yilmaz&amp;rsquo;s research is in the nexus of strategic management and information systems, with an emphasis on artificial intelligence/robotics, digitization, and open innovation.
+Week 6 (Oct 29, 2021) Dr. Reinhold Kesler Reinhold Kesler studied economics at the University of Mannheim, focusing on applied microeconometrics and empirical industrial organisation. In 2019, he graduated summa cum laude with a dissertation on “Competition Policy in the Digital Era” at the University of Zurich.</description>
+    </item>
+    
+    <item>
+      <title>Autumn Semester 2022</title>
+      <link>https://example.com/products/2022/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://example.com/products/2022/</guid>
+      <description>Week 3 (Oct 4, 2022) Prof. Ben Shiller (Brandeis University) Relatively new phenomenon like internet commerce and massive data collection on consumer behavior (Big Data) may induce fundamental changes to the economy. Prof. Ben Shiller&amp;rsquo;s research goal is to study these changes. Examples of his research include studying whether ad blocking reduces websites investments in content, whether proprietary data collection allows prolonged profitability even in the face of competition, and the impact of personalized pricing, i.</description>
+    </item>
+    
+  </channel>
+</rss>
