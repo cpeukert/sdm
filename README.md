@@ -1,2 +1,0 @@
-# AnthiQca.github.io
-Website 
